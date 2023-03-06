@@ -1,4 +1,4 @@
-# machine-learning-code-review
+# crop-disease-diagnosis-ml-code-review
 <p>
 <h2>1. 2022/01/28 Machine Learning Study</h2>
 Machine Learning Code Review<br>
